@@ -1,5 +1,5 @@
 # conkyLyrics
-Displays random song lyrics on your desktop. Move the font to your .fonts and the other two to your home folder.
+Displays song lyrics I like on your desktop :D. Move the font to your .fonts and the other two to your home folder.
 
 
 ![2022-05-21_18-17](https://user-images.githubusercontent.com/69459954/169658033-0638b115-cc15-4db3-9d3e-782f6b349303.png)
