@@ -1,5 +1,7 @@
 # conkyLyrics
-Displays song lyrics I like on your desktop :D. Move the font to your .fonts and the other two to your home folder.
+Displays song lyrics I like on your desktop :D. I add new lyrics everyday. 
+**Requirements**: Conky
+**Usadge**: Move the font to your .fonts and the other two to your home folder.
 
 ![2](https://user-images.githubusercontent.com/69459954/169716440-636f0a81-39b5-4736-8597-d6667cd41161.png)
 ![3](https://user-images.githubusercontent.com/69459954/169716491-51f24965-62f6-45f0-9e09-d40df08ada50.png)
