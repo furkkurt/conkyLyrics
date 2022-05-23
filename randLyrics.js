@@ -40,5 +40,5 @@ var lyric38 = "A man is born a slave, O Lord, or a man is born a chief\nI'll alw
 var lyric39 = "I know I'm soon to slumber, Lord, for all eternity\nIf I wake up tomorrow, Lord, then let me wake up free\nWell I have crossed the river twice to see what I must be\nAnd after I have come this far, will you remember me";
 var lyric40 = "Nothing from nowhere, I'm no one at all\nRadiate, recognize one silent call\nAs we all form one dark flame";
 var lyric41 = "";
-var randNum = Math.floor((Math.random()*34));
+var randNum = Math.floor((Math.random()*40));
 eval("console.log(lyric"+randNum+")");
