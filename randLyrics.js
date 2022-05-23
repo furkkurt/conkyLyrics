@@ -30,9 +30,15 @@ var lyric28 = "If ever thou gav'st silver and gold,\nEvery nighte and alle,\nAt 
 var lyric29 = "From Brig o' Dread whence thou\nmay'st pass, Every nighte and alle,\nTo Purgatory fire thou com'st at last;\nAnd Christe receive thy saule. ";
 var lyric30 = "If ever thou gav'st meat or drink,\nEvery nighte and alle,\nThe fire sall never make thee shrink;\nAnd Christe receive thy saule.\n\nIf meat or drink thou ne'er gav'st nane,\nEvery nighte and alle,\nThe fire will burn thee to the bare bane;\nAnd Christe receive thy saule.";
 var lyric31 = "Yesterday, upon the stair,\nI met a man who wasn't there.\nHe wasn't there again today,\nI wish, I wish he'd go away...\n";
-var lyric32 = "When I came home last night at three,\bThe man was waiting there for me\nBut when I looked around the hall,\nI couldn't see him there at all!";
+var lyric32 = "When I came home last night at three,\nThe man was waiting there for me\nBut when I looked around the hall,\nI couldn't see him there at all!";
 var lyric33 = "Last night I saw upon the stair,\nA little man who wasn't there,\nHe wasn't there again today\nOh, how I wish he'd go away...";
 var lyric34 = "What is this that stands before me?\nFigure in black which points at me\nTurn around quick, and start to run\nFind out I'm the chosen one";
-var lyric35 = "";
+var lyric35 = "Man don't know where he's from\nDon't know where he belong\nNow would man trade tomorrow\nFor a time long forgotten";
+var lyric36 = "I've traveled in different countries, I've traveled in foreign lands\nI've found nobody could tell me, just what about the soul of a man";
+var lyric37 = "God, I want somebody tell me, answer if you can!\nI Want somebody tell me, just what is the soul of a man?\n\nWhen Christ stood in the temple, the people all stood amazed\nWas teaching the lawyers and the doctors, how to raise a body from the grave";
+var lyric38 = "A man is born a slave, O Lord, or a man is born a chief\nI'll always be a beggar, Lord, and I'll always be a thief\nBefore I grow dark and old and lose my eyes to see\nI'll pay back all the things I owe if you remember me";
+var lyric39 = "I know I'm soon to slumber, Lord, for all eternity\nIf I wake up tomorrow, Lord, then let me wake up free\nWell I have crossed the river twice to see what I must be\nAnd after I have come this far, will you remember me";
+var lyric40 = "Nothing from nowhere, I'm no one at all\nRadiate, recognize one silent call\nAs we all form one dark flame";
+var lyric41 = "";
 var randNum = Math.floor((Math.random()*34));
 eval("console.log(lyric"+randNum+")");
