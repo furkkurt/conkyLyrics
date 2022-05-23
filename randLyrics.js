@@ -39,6 +39,12 @@ var lyric37 = "God, I want somebody tell me, answer if you can!\nI Want somebody
 var lyric38 = "A man is born a slave, O Lord, or a man is born a chief\nI'll always be a beggar, Lord, and I'll always be a thief\nBefore I grow dark and old and lose my eyes to see\nI'll pay back all the things I owe if you remember me";
 var lyric39 = "I know I'm soon to slumber, Lord, for all eternity\nIf I wake up tomorrow, Lord, then let me wake up free\nWell I have crossed the river twice to see what I must be\nAnd after I have come this far, will you remember me";
 var lyric40 = "Nothing from nowhere, I'm no one at all\nRadiate, recognize one silent call\nAs we all form one dark flame";
-var lyric41 = "";
-var randNum = Math.floor((Math.random()*40));
+var lyric41 = "Dark and rollin' skies I see\nA blackened halo over me\nFollowin', wherever I may go\nBloodstained footprints on the ground\nHaunting shadows all around\nAnd the freezing wind\nThat shiver to the bone";
+var lyric42 = "I feel darkness in my eyes\nThe chill must beat you great inside\nfor I have no tears left at all\nI'm sure I used them up a while ago";
+var lyric43 = "When you're poor without a dream this whole world keeps getting mean\nAnd happiness is just a word you know\nIf in a world of pain on ten thousand miles of railroad train\nIt doesn't really matter where I go";
+var lyric44 = "Lying in my bed, got no dreams in my head\nBut haven't been dragged across the floor\nWaiting for the sun buried on the ocean\nFor what feels like ten thousand years or more";
+var lyric45 = "Social change is still just talk\nThe things you see in urban walks\nShould make you sick and lose your lunch\nInside your high-rise diners";
+var lyric46 = "Band rocked n rolled but it wasn’t the best\nNearly all of 'em all sound like the rest\nSome girls look pretty but you were the best\nThat’s why I came home to you";
+var lyric47 = "";
+var randNum = Math.floor((Math.random()*46));
 eval("console.log(lyric"+randNum+")");
