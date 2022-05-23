@@ -3,10 +3,10 @@ Displays song lyrics I like on your desktop :D. I add new lyrics everyday.
 **Requirements**: Conky  
 **Usadge**: Move the font to your .fonts and the other two to your home folder.  
   
-![2](https://user-images.githubusercontent.com/69459954/169716440-636f0a81-39b5-4736-8597-d6667cd41161.png)
-![3](https://user-images.githubusercontent.com/69459954/169716491-51f24965-62f6-45f0-9e09-d40df08ada50.png)
-![5](https://user-images.githubusercontent.com/69459954/169716518-449e957a-01ce-4385-816c-51e5ed3f19eb.png)
-![2022-05-21_18-21](https://user-images.githubusercontent.com/69459954/169658222-a4d7c439-7b0b-4541-80ca-1715f1fcda66.png)
-![1](https://user-images.githubusercontent.com/69459954/169716489-42230906-54ad-45e0-bebd-afddb1c6903e.png)
-
-
+![1](https://user-images.githubusercontent.com/69459954/169827634-a62c9bc2-8968-43f0-ba44-e7e365acbd11.png)
+![2](https://user-images.githubusercontent.com/69459954/169827668-60bd539a-473f-4f4d-ba05-a6b49955068c.png)
+![3](https://user-images.githubusercontent.com/69459954/169827682-793cf874-d149-4d5b-bd23-f068659adb42.png)
+![6](https://user-images.githubusercontent.com/69459954/169827703-9ff3fe5b-b1e9-440c-91c8-24cfcff0e277.png)![7](https://user-images.githubusercontent.com/69459954/169827735-c3cea7d8-b498-455d-9a45-6529463c48e4.png)![8](https://user-images.githubusercontent.com/69459954/169827770-716f9acd-c953-4f96-a2f9-9689fe4421a1.png)
+![9](https://user-images.githubusercontent.com/69459954/169827788-49ac6aaf-6c92-429e-a244-a4b2894a7ee6.png)
+![11](https://user-images.githubusercontent.com/69459954/169828786-66355d7a-420e-4ae4-9a82-46241514dbbc.png)
+![10](https://user-images.githubusercontent.com/69459954/169828511-d40f72d9-2882-402c-9d9e-4b32837244df.png)
