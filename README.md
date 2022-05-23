@@ -2,6 +2,7 @@
 Displays song lyrics **I** like on **your** desktop :D. I add new lyrics everyday.   
 **Requirements**: Conky  
 **Usage**: Move the font to your .fonts and the other two files to your home folder.  
+**Screenshots**:  
   
 ![1](https://user-images.githubusercontent.com/69459954/169827634-a62c9bc2-8968-43f0-ba44-e7e365acbd11.png)
 ![2](https://user-images.githubusercontent.com/69459954/169827668-60bd539a-473f-4f4d-ba05-a6b49955068c.png)
@@ -10,3 +11,5 @@ Displays song lyrics **I** like on **your** desktop :D. I add new lyrics everyda
 ![9](https://user-images.githubusercontent.com/69459954/169827788-49ac6aaf-6c92-429e-a244-a4b2894a7ee6.png)
 ![11](https://user-images.githubusercontent.com/69459954/169828786-66355d7a-420e-4ae4-9a82-46241514dbbc.png)
 ![10](https://user-images.githubusercontent.com/69459954/169828511-d40f72d9-2882-402c-9d9e-4b32837244df.png)
+![10](https://user-images.githubusercontent.com/69459954/169881204-997af764-5a65-4c13-8653-0eef8c4c3560.png)
+
