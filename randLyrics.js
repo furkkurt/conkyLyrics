@@ -48,6 +48,12 @@ var lyric46 = "Band rocked n rolled but it wasn’t the best\nNearly all of 'em 
 var lyric47 = "And you said you think you're ready,\nTo be an actress, well I said,\nLife's just a rolling movie and\nWe're all waiting for the credits.";
 var lyric48 = "You think I care? Well I don't, not anymore\nSomeday my soul must be blackened\nAnytime a girl comes over, I lock 'em downstairs, then I just wait til she starts cryin'\nYeah I am cruel, I don't deny it";
 var lyric49 = "Most of the folks I know go drinkin' every night\nThey say they sure are havin' fun\nBut when they ask me with 'em\nI tell 'em I'm too tired\nTruth is that I just don't like strangers\nYou know I plan to die alone";
-var lyric50 = "";
-var randNum = Math.floor((Math.random()*49));
+var lyric50 = "Beneath my breasts\nThere burns a fire\nOf blood and flesh\nOf sound and wire\nIt won't be quenched\n'Till I retire\nFrom wretchedness\nThat dark desire";
+var lyric51 = "Fact is I ain't been nowhere\nFact is I live here forever\nFact is I'm just a big mouth talker";
+var lyric52 = "I'll take up my seat next to Anton LaVey\nWith a Molotov cocktail and a can of gasoline\nOh, ashes up to Heaven, beautiful destruction\nI grew up by that light, I was raised by that light";
+var lyric53 = "Give me poison I can swim in, water I can't drink\nWheels that won't stop spinning, teach my children not to think\nI want the fruit that tastes like nothing, extra thumbs for every crook\nGive me lessons without questions, a mild disdain for books\nGive me metaphors unraveled, poetry defined\nBring me the head of Dionysus but please don't spill out the wine\nTrade the future for the present, trade me ashes for my history\nI don't need to look inside, I know the answer to the mystery";
+var lyric54 = "There was this beast who turn to Cranston\nIt had a bird it just chewed upon its ear\nThis was a rumor bird with womanly intentions\nIt spoke so loud that no one truly hear";
+var lyric55 = "Oh, my son\nWhat have you done?\nDirt always tells\nDirt always tells";
+var lyric56 = "";
+var randNum = Math.floor((Math.random()*55));
 eval("console.log(lyric"+randNum+")");
